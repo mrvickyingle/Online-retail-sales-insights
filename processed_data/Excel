@@ -1,0 +1,23 @@
+##  Workbook Structure
+
+This Excel workbook is organized into multiple worksheets, each serving a specific purpose in the data analysis process.
+
+| Worksheet | Description |
+|-----------|-------------|
+| **Clean Sales Data** | Cleaned and transformed dataset used for analysis. Removed inconsistencies, standardized data, and created calculated columns. |
+| **Sales by Country** | Country-wise sales summary showing revenue distribution across different regions. |
+| **Invoice Summary** | Invoice-level analysis including transaction totals and sales summaries. |
+| **Questions** | Business questions defined before analysis to guide insights and dashboard creation. |
+| **Pivot** | Pivot Tables used to summarize and analyze sales, customers, products, and other key metrics. |
+| **KPIs** | Key Performance Indicators (KPIs) such as Total Sales, Orders, Customers, Average Order Value, and other business metrics. |
+| **Insight Pivot** | Additional Pivot Tables created specifically to generate business insights and trends. |
+| **Insights & Trends** | Final observations, business insights, and actionable recommendations derived from the analysis. |
+
+---
+
+## Project Workbook
+
+You can explore the complete Excel workbook here:
+
+**🔗 Excel Workbook:**  
+<https://1drv.ms/f/c/9cfc1192fb74e4e6/IgAdhlZTYAN1RaF1QiTxKP3lAUImgl-uK5S-6PYZKLcWbI0?e=41aJ9f>
